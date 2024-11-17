@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Cien a\uff83\uff71os de soledad",
+        "autor": "Gabriel Garc\uff83\uff6da M\uff83\uff61rquez",
+        "genero": "Novela",
+        "anio_publicacion": 1967,
+        "ISBN": 9788497592208
+    },
+    {
+        "titulo": "Las aventuras de pepe",
+        "autor": "Juan carlos",
+        "genero": "Fantasia",
+        "anio_publicacion": 2009,
+        "ISBN": 9788497592206
+    },
+    {
+        "titulo": "Jorge el curioso",
+        "autor": "Gian",
+        "genero": "Aventura",
+        "anio_publicacion": 2005,
+        "ISBN": 9788497592201
+    }
+]
