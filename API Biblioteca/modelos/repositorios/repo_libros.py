@@ -32,6 +32,36 @@ class RepositorioLibros:
         except FileNotFoundError:
             print('El archivo con los datos de los libros no existe.')
 
+    def tieneEjemplares(self, isbn:int):
+        if not isinstance(isbn, int) or isbn < 0:
+            raise TypeError('El tipo de dato debe ser int.')
+        for libro in self.__libros:
+            if libro.obtenerISBN() == isbn:
+                if libro.obtenerEjemplares() > 0:
+                    return True
+        return False
+
+    def restarEjemplar(self, isbn: int):
+        if not isinstance(isbn, int) or isbn < 0:
+            raise TypeError('El tipo de dato debe ser int.')
+        for libro in self.__libros:
+            if libro.obtenerISBN() == isbn:
+                    libro.restarEjemplares()
+                    self.__guardarLibros()
+                    return True
+        return False
+
+    
+    def sumarEjemplar(self, isbn: int):
+        if not isinstance(isbn, int) or isbn < 0:
+            raise TypeError('El tipo de dato debe ser int.')
+        for libro in self.__libros:
+            if libro.obtenerISBN() == isbn:
+                    libro.sumarEjemplares()
+                    self.__guardarLibros()
+                    return True
+        return False
+
     def obtenerLibros(self) -> list:
         return self.__libros
     

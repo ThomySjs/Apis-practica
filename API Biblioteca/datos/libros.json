@@ -4,20 +4,23 @@
         "autor": "Gabriel Garc\uff83\uff6da M\uff83\uff61rquez",
         "genero": "Novela",
         "anio_publicacion": 1967,
-        "ISBN": 9788497592208
+        "ISBN": 9788497592208,
+        "cantidad_ejemplares": 0
     },
     {
         "titulo": "Las aventuras de pepe",
         "autor": "Juan carlos",
         "genero": "Fantasia",
         "anio_publicacion": 2009,
-        "ISBN": 9788497592206
+        "ISBN": 9788497592206,
+        "cantidad_ejemplares": 0
     },
     {
         "titulo": "Jorge el curioso",
         "autor": "Gian",
         "genero": "Aventura",
         "anio_publicacion": 2005,
-        "ISBN": 9788497592201
+        "ISBN": 9788497592201,
+        "cantidad_ejemplares": 5
     }
 ]
