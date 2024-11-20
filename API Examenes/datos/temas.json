@@ -1,0 +1,27 @@
+[
+    {
+        "numero": 2,
+        "nombre": "Estructuras de datos",
+        "enunciado": "Define y describe los conceptos de listas, pilas, colas y diccionarios."
+    },
+    {
+        "numero": 3,
+        "nombre": "POO - Programaci\u00f3n Orientada a Objetos",
+        "enunciado": "Introducci\u00f3n a los conceptos de clases, objetos, herencia y polimorfismo."
+    },
+    {
+        "numero": 4,
+        "nombre": "Bases de datos",
+        "enunciado": "Describe los conceptos fundamentales de bases de datos relacionales y lenguaje SQL."
+    },
+    {
+        "numero": 5,
+        "nombre": "Desarrollo web",
+        "enunciado": "Explica las tecnolog\u00edas principales para el desarrollo web, como HTML, CSS y JavaScript."
+    },
+    {
+        "numero": 6,
+        "nombre": "Desarrollo web2",
+        "enunciado": "Explica las tecnolog\u00edas principales para el desarrollo web, como HTML, CSS y JavaScript."
+    }
+]

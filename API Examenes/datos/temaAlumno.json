@@ -1,0 +1,93 @@
+[
+    {
+        "alumno": {
+            "id": 1,
+            "legajo": 1001,
+            "nombre": "Juan",
+            "apellido": "P\u00e9rez"
+        },
+        "tema": {
+            "numero": 3,
+            "nombre": "POO - Programaci\u00f3n Orientada a Objetos",
+            "enunciado": "Introducci\u00f3n a los conceptos de clases, objetos, herencia y polimorfismo."
+        }
+    },
+    {
+        "alumno": {
+            "id": 2,
+            "legajo": 1002,
+            "nombre": "Mar\u00eda",
+            "apellido": "Garc\u00eda"
+        },
+        "tema": {
+            "numero": 6,
+            "nombre": "Desarrollo web2",
+            "enunciado": "Explica las tecnolog\u00edas principales para el desarrollo web, como HTML, CSS y JavaScript."
+        }
+    },
+    {
+        "alumno": {
+            "id": 3,
+            "legajo": 1003,
+            "nombre": "Carlos",
+            "apellido": "L\u00f3pez"
+        },
+        "tema": {
+            "numero": 3,
+            "nombre": "POO - Programaci\u00f3n Orientada a Objetos",
+            "enunciado": "Introducci\u00f3n a los conceptos de clases, objetos, herencia y polimorfismo."
+        }
+    },
+    {
+        "alumno": {
+            "id": 4,
+            "legajo": 1004,
+            "nombre": "Ana",
+            "apellido": "Rodr\u00edguez"
+        },
+        "tema": {
+            "numero": 4,
+            "nombre": "Bases de datos",
+            "enunciado": "Describe los conceptos fundamentales de bases de datos relacionales y lenguaje SQL."
+        }
+    },
+    {
+        "alumno": {
+            "id": 5,
+            "legajo": 1005,
+            "nombre": "Luc\u00eda",
+            "apellido": "Fern\u00e1ndez"
+        },
+        "tema": {
+            "numero": 4,
+            "nombre": "Bases de datos",
+            "enunciado": "Describe los conceptos fundamentales de bases de datos relacionales y lenguaje SQL."
+        }
+    },
+    {
+        "alumno": {
+            "id": 7,
+            "legajo": 1008,
+            "nombre": "Juan",
+            "apellido": "P\u00e9rez"
+        },
+        "tema": {
+            "numero": 6,
+            "nombre": "Desarrollo web2",
+            "enunciado": "Explica las tecnolog\u00edas principales para el desarrollo web, como HTML, CSS y JavaScript."
+        }
+    },
+    {
+        "alumno": {
+            "id": 8,
+            "legajo": 1009,
+            "nombre": "Juan",
+            "apellido": "P\u00e9rez"
+        },
+        "tema": {
+            "numero": 6,
+            "nombre": "Desarrollo web2",
+            "enunciado": "Explica las tecnolog\u00edas principales para el desarrollo web, como HTML, CSS y JavaScript."
+        }
+    }
+]

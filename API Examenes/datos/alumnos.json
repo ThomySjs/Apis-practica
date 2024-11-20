@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "legajo": 1001,
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez"
+    },
+    {
+        "id": 2,
+        "legajo": 1002,
+        "nombre": "Mar\u00eda",
+        "apellido": "Garc\u00eda"
+    },
+    {
+        "id": 3,
+        "legajo": 1003,
+        "nombre": "Carlos",
+        "apellido": "L\u00f3pez"
+    },
+    {
+        "id": 4,
+        "legajo": 1004,
+        "nombre": "Ana",
+        "apellido": "Rodr\u00edguez"
+    },
+    {
+        "id": 5,
+        "legajo": 1005,
+        "nombre": "Luc\u00eda",
+        "apellido": "Fern\u00e1ndez"
+    },
+    {
+        "id": 7,
+        "legajo": 1008,
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez"
+    },
+    {
+        "id": 8,
+        "legajo": 1009,
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "alumno": {
+            "id": 1,
+            "legajo": 1001,
+            "nombre": "Juan",
+            "apellido": "P\u00e9rez"
+        },
+        "tema": {
+            "numero": 3,
+            "nombre": "POO - Programaci\u00f3n Orientada a Objetos",
+            "enunciado": "Introducci\u00f3n a los conceptos de clases, objetos, herencia y polimorfismo."
+        }
+    },
+    {
+        "alumno": {
+            "id": 2,
+            "legajo": 1001,
+            "nombre": "Juan",
+            "apellido": "P\u00e9rez"
+        },
+        "tema": {
+            "numero": 3,
+            "nombre": "POO - Programaci\u00f3n Orientada a Objetos",
+            "enunciado": "Introducci\u00f3n a los conceptos de clases, objetos, herencia y polimorfismo."
+        }
+    }
+]
